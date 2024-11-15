@@ -1,0 +1,43 @@
+""" Parentheses '()'
+
+Function calls:
+print("Hello, World!")
+len(my_list)
+
+Tuples:
+my_tuple = (1, 2, 3)
+
+Grouping in Expressions:
+result = (2 + 3) * 4
+
+Generator Expressions:
+my_gen = (x*x for x in range(5))
+
+
+Brackets '[]'
+
+Lists:
+my_list = [1, 2, 3, 4]
+
+Indexing and Slicing:
+my_list[0] first element
+my_list[1:3] slice of 1-2
+
+List Comprehensions:
+squares = [x*x for x in range(5)]
+
+
+
+Braces '{}'
+
+Dictionaries:
+my_dict = {'name': 'Alice', 'age': 25}
+
+Sets:
+my_set = {1, 2, 3, 4}
+
+Dictonary and Set Comprehensions
+my_dict = {x: x*x for x in range(5)}
+my_set = {x*x for x in range(5)}
+
+ """
